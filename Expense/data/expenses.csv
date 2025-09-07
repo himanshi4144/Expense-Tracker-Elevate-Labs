@@ -1,0 +1,101 @@
+id,date,amount,category,note
+1,2025-08-01,250,Food,Lunch at cafe
+2,2025-08-01,120,Transport,Metro card recharge
+3,2025-08-01,450,Shopping,New headphones
+4,2025-08-01,90,Bills,Electricity bill
+5,2025-08-02,300,Food,Grocery shopping
+6,2025-08-02,200,Transport,Cab ride
+7,2025-08-02,600,Shopping,Clothes
+8,2025-08-02,150,Bills,Internet bill
+9,2025-08-03,180,Food,Dinner outside
+10,2025-08-03,75,Transport,Bus ticket
+11,2025-08-03,320,Shopping,Online order
+12,2025-08-03,95,Bills,Water bill
+13,2025-08-04,240,Food,Breakfast with friends
+14,2025-08-04,110,Transport,Fuel refill
+15,2025-08-04,500,Shopping,Shoes
+16,2025-08-04,220,Bills,Mobile recharge
+17,2025-08-05,260,Food,Lunch delivery
+18,2025-08-05,140,Transport,Auto fare
+19,2025-08-05,750,Shopping,Laptop accessories
+20,2025-08-05,310,Bills,Rent
+21,2025-08-06,280,Food,Snacks and drinks
+22,2025-08-06,90,Transport,Bus pass
+23,2025-08-06,400,Shopping,T-shirt
+24,2025-08-06,130,Bills,Gas bill
+25,2025-08-07,350,Food,Dinner at restaurant
+26,2025-08-07,180,Transport,Taxi ride
+27,2025-08-07,500,Shopping,Watch
+28,2025-08-07,210,Bills,Electricity
+29,2025-08-08,270,Food,Weekly groceries
+30,2025-08-08,95,Transport,Metro tickets
+31,2025-08-08,420,Shopping,Online clothes
+32,2025-08-08,160,Bills,Internet
+33,2025-08-09,230,Food,Breakfast buffet
+34,2025-08-09,80,Transport,Shared auto
+35,2025-08-09,700,Shopping,Smartphone cover
+36,2025-08-09,290,Bills,Rent
+37,2025-08-10,260,Food,Home delivery
+38,2025-08-10,115,Transport,Cab
+39,2025-08-10,500,Shopping,Headphones
+40,2025-08-10,125,Bills,Water
+41,2025-08-11,300,Food,Lunch
+42,2025-08-11,100,Transport,Bus ticket
+43,2025-08-11,550,Shopping,Backpack
+44,2025-08-11,230,Bills,Gas
+45,2025-08-12,290,Food,Snacks
+46,2025-08-12,150,Transport,Metro
+47,2025-08-12,600,Shopping,Sports shoes
+48,2025-08-12,240,Bills,Mobile recharge
+49,2025-08-13,250,Food,Dinner
+50,2025-08-13,90,Transport,Shared auto
+51,2025-08-13,800,Shopping,Smartwatch
+52,2025-08-13,310,Bills,Rent
+53,2025-08-14,260,Food,Grocery
+54,2025-08-14,120,Transport,Fuel
+55,2025-08-14,450,Shopping,Jeans
+56,2025-08-14,200,Bills,Electricity
+57,2025-08-15,220,Food,Snacks
+58,2025-08-15,100,Transport,Bus
+59,2025-08-15,620,Shopping,Tablet cover
+60,2025-08-15,180,Bills,Internet
+61,2025-08-16,280,Food,Lunch
+62,2025-08-16,130,Transport,Cab
+63,2025-08-16,500,Shopping,Shoes
+64,2025-08-16,250,Bills,Gas
+65,2025-08-17,240,Food,Breakfast
+66,2025-08-17,115,Transport,Metro
+67,2025-08-17,700,Shopping,Keyboard
+68,2025-08-17,220,Bills,Water
+69,2025-08-18,260,Food,Dinner
+70,2025-08-18,95,Transport,Bus
+71,2025-08-18,480,Shopping,Book set
+72,2025-08-18,300,Bills,Rent
+73,2025-08-19,250,Food,Lunch
+74,2025-08-19,140,Transport,Cab
+75,2025-08-19,560,Shopping,Headset
+76,2025-08-19,200,Bills,Electricity
+77,2025-08-20,270,Food,Dinner
+78,2025-08-20,105,Transport,Bus pass
+79,2025-08-20,630,Shopping,Tablet
+80,2025-08-20,250,Bills,Gas
+81,2025-08-21,300,Food,Lunch
+82,2025-08-21,110,Transport,Metro
+83,2025-08-21,720,Shopping,Laptop bag
+84,2025-08-21,260,Bills,Internet
+85,2025-08-22,280,Food,Snacks
+86,2025-08-22,125,Transport,Auto
+87,2025-08-22,510,Shopping,Desk lamp
+88,2025-08-22,210,Bills,Mobile recharge
+89,2025-08-23,260,Food,Dinner
+90,2025-08-23,90,Transport,Bus
+91,2025-08-23,680,Shopping,Monitor stand
+92,2025-08-23,300,Bills,Rent
+93,2025-08-24,240,Food,Breakfast
+94,2025-08-24,100,Transport,Taxi
+95,2025-08-24,750,Shopping,Headphones
+96,2025-08-24,230,Bills,Water
+97,2025-08-25,270,Food,Lunch
+98,2025-08-25,115,Transport,Metro
+99,2025-08-25,520,Shopping,Keyboard
+100,2025-08-25,200,Bills,Electricity
