@@ -22,7 +22,7 @@ JDBC (DB connection)
 
 ⚙️ Setup Instructions
 1. Clone the repo
-git clone https://github.com/himanshi4144/Expense.git
+git clone https://github.com/himanshi4144/Expense-Tracker-Elevate-Labs.git
 cd Expense
 
 2. Database Setup
@@ -72,4 +72,5 @@ Cloud sync
 👨‍💻 Author
 
 HIMANSHI DHAKA
+
 💼 Java Developer | 📊 Data Enthusiast | 🎨 UI Designer
